@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">dayPlanner</string>
+    <string name="app_main_logo">day planner logo</string>
+    <string name="main_content">DayPlanner</string>
+    <string name="motto_content">Simply plan your day</string>
 </resources>
